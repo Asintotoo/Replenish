@@ -1,0 +1,15 @@
+error:
+  no-permission: "<red>You do not have permission to run this command"
+  not-a-player: "<red>Only players can run this command"
+  player-not-found: "<red>Player not found"
+  missing-args: "<red>Missing args"
+  invalid-arg: "<red>Invalid arg"
+
+admin:
+  reload: "<yellow>Plugin reloaded!"
+  set-on: "<yellow>Crop replanting enabled for %player%"
+  set-off: "<yellow>Crop replanting disabled for %player%"
+
+player:
+  toggle-on: "<yellow>Replanting: <green><bold>ON"
+  toggle-off: "<yellow>Replanting: <red><bold>OFF"

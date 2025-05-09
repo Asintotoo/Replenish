@@ -1,0 +1,4 @@
+enable: true
+replanting-hoe: true
+disable-while-in-creative: true
+prevent-breaking-when-not-full-grown: true
